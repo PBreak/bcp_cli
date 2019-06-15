@@ -1,6 +1,6 @@
 # esbutob_cli
 
-> A Vue.js project
+> A Vue CLI for esbu_to_b add vux,vuex,axios,JSSDK(later)
 
 ## Build Setup
 
